@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I finished Automation QA courses on Python, have strong knowledge in Manual and Automation Testing.\
-💡 &nbsp;I am passionate about exploring new technologies, test web/mobile appliciations, REST API/SOAP and SQL.\
+💡 &nbsp;I am passionate about exploring new technologies, testing web/mobile appliciations, REST API/SOAP and SQL.\
 🌱 &nbsp;I'm on track for learning more about Docker, CI/CD, other programming languages.\
 ✍️ &nbsp;In my free time, I pursue reading books about test designs, test documentation.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
